@@ -10,3 +10,7 @@ Instalando o Locust
 chrome driver
 https://googlechromelabs.github.io/chrome-for-testing/
 
+Testes com Selenium
+pip install selenium
+
+
