@@ -7,5 +7,6 @@ Instalando o Locust
 5. locust -V
 6. Rodar a aplicação: locust -f locustfile.py --host=https://seusite.com
 
-
+chrome driver
+https://googlechromelabs.github.io/chrome-for-testing/
 
